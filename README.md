@@ -1,6 +1,5 @@
-**ODOO HACKATHON - 2025 **
-
-** PROBLEM STATEMENT **
+ODOO HACKATHON -
+PROBLEM STATEMENT
 
 Skill Swap Platform 
 Overview: 
