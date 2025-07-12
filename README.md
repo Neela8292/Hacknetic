@@ -10,6 +10,6 @@ Team Leader Name:  Udumula Neela Lohitha Susmitha Reddy
 Email Id       :  susmithareddyudumula@gmail.com
 
 Team Members 
-1.Bikki Bindu Venkata Priya
-2.Mahendra Kumar
-3.Murahari Akhilesh
+1.Bikki Bindu Venkata Priya      
+2.Mahendra Kumar       
+3.Murahari Akhilesh     
