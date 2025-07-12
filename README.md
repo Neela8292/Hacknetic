@@ -73,14 +73,14 @@ To get this project up and running on your local machine, follow these steps:
 2.  *Update the following constants* with your SMTP server details. For testing, you can use a Gmail account (you'll need to generate an "App Password" if you have 2-Step Verification enabled for your Google account).
 
     \\\`php
-    define('SMTP_HOST', 'smtp.gmail.com'); // e.g., 'smtp.gmail.com'
-    define('SMTP_USERNAME', 'your_email@gmail.com'); // Your full email address
-    define('SMTP_PASSWORD', 'your_app_password_or_regular_password'); // Your App Password for Gmail, or regular password
-    define('SMTP_PORT', 587); // 587 for TLS, 465 for SSL
-    define('SMTP_ENCRYPTION', 'tls'); // 'tls' or 'ssl'
-
-    define('MAIL_FROM_EMAIL', 'no-reply@skillswap.com'); // Sender email
-    define('MAIL_FROM_NAME', 'SkillSwap Platform'); // Sender name
+    define('SMTP_HOST', 'smtp.gmail.com'); // e.g., 'smtp.gmail.com'    
+    define('SMTP_USERNAME', 'your_email@gmail.com'); // Your full email address    
+    define('SMTP_PASSWORD', 'your_app_password_or_regular_password'); // Your App Password for Gmail, or regular password     
+    define('SMTP_PORT', 587); // 587 for TLS, 465 for SSL   
+    define('SMTP_ENCRYPTION', 'tls'); // 'tls' or 'ssl'     
+       
+    define('MAIL_FROM_EMAIL', 'no-reply@skillswap.com'); // Sender email    
+    define('MAIL_FROM_NAME', 'SkillSwap Platform'); // Sender name    
     \\\`
 
     *Security Note:* For production environments, avoid hardcoding credentials. Use environment variables or a secure configuration management system.
